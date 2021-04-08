@@ -2,7 +2,7 @@
 
 Landing page of Creative Bakery
 
-Used technologies: HTML5, CSS/SCSS
+Used technologies: HTML5, CSS/SCSS, BEM
 
 - [Preview](https://nub1a.github.io/creative_bakery_landing/)
 
